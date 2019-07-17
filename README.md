@@ -35,4 +35,10 @@ Based on the reviews of users ,it recommends movie to new user.
 
 ## Credit Card Fraud Detection :
 
-Machine Learning Project to check fraudulent transactions. Used dataset creditcard.csv of  nearly 28,500 credit card transactions and multiple unsupervised anomaly detection algorithms, we  identify transactions with a high probability of being credit card fraud.
+Machine Learning Project to check fraudulent transactions. Used dataset creditcard.csv of  nearly 28,500 credit card transactions and multiple unsupervised anomaly detection algorithms, we  identify transactions with a high probability of being credit card fraud.  
+
+## Predicting the Cost of Used Cars
+
+predicting the cost of used cars hackathon by imarticus.
+predicting the costs of used cars given the data collected from various sources and distributed across various locations in India.
+Got the accuracy of 89.97%.
