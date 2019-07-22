@@ -42,3 +42,4 @@ Machine Learning Project to check fraudulent transactions. Used dataset creditca
 predicting the cost of used cars hackathon by imarticus.
 predicting the costs of used cars given the data collected from various sources and distributed across various locations in India.
 Got the accuracy of 89.97%.
+
