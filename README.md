@@ -43,3 +43,6 @@ predicting the cost of used cars hackathon by imarticus.
 predicting the costs of used cars given the data collected from various sources and distributed across various locations in India.
 Got the accuracy of 89.97%.
 
+## ZS ASSOCIATES Data Science Challenge 2019
+
+In this Data Science Hackathon , We had to predict the chance of Goal(from 0.0 to 1.0) by Cristiano Ronaldo based on given dataset. I got accuracy of 81.42 % and ended up with rank 860 among 11800 participants.
