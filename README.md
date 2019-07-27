@@ -46,3 +46,10 @@ Got the accuracy of 89.97%.
 ## ZS ASSOCIATES Data Science Challenge 2019
 
 In this Data Science Hackathon , We had to predict the chance of Goal(from 0.0 to 1.0) by Cristiano Ronaldo based on given dataset. I got accuracy of 81.42 % and ended up with rank 860 among 11800 participants.
+
+## Tackling Population Explosion in India with Data Science
+Grameen : Revolutionising Rural India.
+Identification of regions having high chance of population explosion.
+https://medium.com/@grameeniitkgp/tackling-population-explosion-in-india-with-data-science-part-1-a540b6b4621e
+
+
